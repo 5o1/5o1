@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm 5o1
 
-<!--
-**5o1/5o1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.funclogic.me/api?username=5o1&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="5o1's GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-streak-stats.funclogic.me?user=5o1&theme=tokyonight&hide_border=true"
+    alt="5o1's GitHub contribution streak"
+  />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img
+    src="https://github-profile-trophy.funclogic.me/?username=5o1&theme=flat&no-frame=true&margin-w=15"
+    alt="5o1's GitHub trophies"
+  />
+</p>
