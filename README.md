@@ -1,4 +1,4 @@
-## Hi there, I'm 5o1
+## Hi there, I'm 5o1. Not A doge.
 
 <p align="center">
   <img
