@@ -1,5 +1,7 @@
 ## Hi there, I'm 5o1.
 
+See [CARD_PROJECTS.md](CARD_PROJECTS.md) for a curated list of GitHub Profile README card projects.
+
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python,pytorch,go,java,js,cpp,linux,git,githubactions&theme=dark&perline=9"
