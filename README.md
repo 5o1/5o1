@@ -3,8 +3,6 @@
 B.S. in Computer Science and Technology → M.S. in Biomedical Engineering  
 Research focus: deep learning for MRI reconstruction; currently a research intern in an embodied intelligence laboratory.
 
-See [CARD_PROJECTS.md](CARD_PROJECTS.md) for a curated list of GitHub Profile README card projects.
-
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python,pytorch,go,java,js,cpp,linux,git,githubactions&theme=dark&perline=9"
