@@ -1,5 +1,8 @@
 ## Hi there, I'm 5o1.
 
+B.S. in Computer Science and Technology → M.S. in Biomedical Engineering  
+Research focus: deep learning for MRI reconstruction; currently a research intern in an embodied intelligence laboratory.
+
 See [CARD_PROJECTS.md](CARD_PROJECTS.md) for a curated list of GitHub Profile README card projects.
 
 <p align="center">
